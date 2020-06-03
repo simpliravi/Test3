@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-03T10:54:33 IST" name="Default suite" finished-at="2020-06-03T10:54:39 IST" duration-ms="5583">
+    <groups>
+    </groups>
+    <test started-at="2020-06-03T10:54:33 IST" name="Default test" finished-at="2020-06-03T10:54:39 IST" duration-ms="5583">
+      <class name="Tests.Script">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.Script@46fa7c39]" started-at="2020-06-03T10:54:33 IST" name="setup" finished-at="2020-06-03T10:54:36 IST" duration-ms="3160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="passLogin()[pri:1, instance:Tests.Script@46fa7c39]" started-at="2020-06-03T10:54:36 IST" name="passLogin" finished-at="2020-06-03T10:54:38 IST" duration-ms="1554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passLogin -->
+        <test-method signature="changePassword()[pri:2, instance:Tests.Script@46fa7c39]" started-at="2020-06-03T10:54:38 IST" name="changePassword" finished-at="2020-06-03T10:54:39 IST" duration-ms="832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changePassword -->
+      </class> <!-- Tests.Script -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
